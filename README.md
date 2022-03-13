@@ -4,7 +4,7 @@ We have optimized the elgamal encryption method to increase its security
 
 #### Randomized prime no picked
 
-Run server file to enter the data to be encrypted and then result appears on client
+Run server file to enter the data to be encrypted and then encrypted message appears on client
 
 Optimizations made in it
 1. Multiple rounds of encryption make the algorithm hard to break via brute force attack.
