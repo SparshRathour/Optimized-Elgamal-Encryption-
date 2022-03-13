@@ -2,5 +2,5 @@
 We have optimized the elgamal encryption method to increase its security
 ## Multiple encryption rounds
 
-#### Randomized intial prime no picked
+#### Randomized prime no picked
 
